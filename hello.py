@@ -1,3 +1,3 @@
 print("Hello Mieszko")
-weird
-text
+print ("weird text")
+
